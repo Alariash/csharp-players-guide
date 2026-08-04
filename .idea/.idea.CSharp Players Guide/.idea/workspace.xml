@@ -28,7 +28,11 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="Initial Commit" />
+    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/C014. The Prototype/C014. The Prototype.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C014. The Prototype/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp Players Guide.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp Players Guide.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,12 +56,12 @@
     &quot;assignee&quot;: &quot;Alariash&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Alariash/csplayersguide.git&quot;,
-    &quot;accountId&quot;: &quot;78b62ccf-e7ee-494c-89ae-c4547497bc03&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alariash/csharp-players-guide.git",
+    "accountId": "78b62ccf-e7ee-494c-89ae-c4547497bc03"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/C002. The makings of a Programmer/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C003. Consolas and Telim/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -485,7 +489,7 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C015. The Prototype/C015. The Prototype.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C014. The Prototype/C014. The Prototype.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -506,7 +510,7 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C016. The Magic Cannon/C016. The Magic Cannon.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C015. The Magic Cannon/C015. The Magic Cannon.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />

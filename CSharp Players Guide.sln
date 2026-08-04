@@ -26,9 +26,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C012. Buying Inventory", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C013. Discounted Inventory", "C013. Discounted Inventory\C013. Discounted Inventory.csproj", "{C2EEB72B-15C9-4BD1-AD7B-62EA9A8B2D0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C015. The Prototype", "C015. The Prototype\C015. The Prototype.csproj", "{50486D75-A282-41D3-8E23-A10D3AAB756B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C014. The Prototype", "C014. The Prototype\C014. The Prototype.csproj", "{50486D75-A282-41D3-8E23-A10D3AAB756B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C016. The Magic Cannon", "C016. The Magic Cannon\C016. The Magic Cannon.csproj", "{9BEFDE86-5CD6-459F-A63E-0D83342AAA50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C015. The Magic Cannon", "C015. The Magic Cannon\C015. The Magic Cannon.csproj", "{9BEFDE86-5CD6-459F-A63E-0D83342AAA50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
