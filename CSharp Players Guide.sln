@@ -32,6 +32,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C015. The Magic Cannon", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C016. The Replicator of Ditto", "C016. The Replicator of Ditto\C016. The Replicator of Ditto.csproj", "{92B44079-2571-433F-894C-1F5A52FDD969}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C017a. The Laws of Freach", "C017a. The Laws of Freach\C017a. The Laws of Freach.csproj", "{E5F001A6-C196-4BA0-BF9D-FDA8E744168F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C017b. The Laws of Freach", "C017b. The Laws of Freach\C017b. The Laws of Freach.csproj", "{AB891D91-08D1-4813-BF22-47C5ADE901C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +106,13 @@ Global
 		{92B44079-2571-433F-894C-1F5A52FDD969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92B44079-2571-433F-894C-1F5A52FDD969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92B44079-2571-433F-894C-1F5A52FDD969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F001A6-C196-4BA0-BF9D-FDA8E744168F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F001A6-C196-4BA0-BF9D-FDA8E744168F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F001A6-C196-4BA0-BF9D-FDA8E744168F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F001A6-C196-4BA0-BF9D-FDA8E744168F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB891D91-08D1-4813-BF22-47C5ADE901C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB891D91-08D1-4813-BF22-47C5ADE901C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB891D91-08D1-4813-BF22-47C5ADE901C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB891D91-08D1-4813-BF22-47C5ADE901C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

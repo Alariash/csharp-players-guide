@@ -17,6 +17,9 @@
     <projectFile>C011. Repairing the Clocktower/C011. Repairing the Clocktower.csproj</projectFile>
     <projectFile>C015. The Prototype/C015. The Prototype.csproj</projectFile>
     <projectFile>C016. The Magic Cannon/C016. The Magic Cannon.csproj</projectFile>
+    <projectFile>C016. The Replicator of Ditto/C016. The Replicator of Ditto.csproj</projectFile>
+    <projectFile>C017a. The Laws of Freach/C017a. The Laws of Freach.csproj</projectFile>
+    <projectFile>C017b. The Laws of Freach/C017b. The Laws of Freach.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -28,9 +31,8 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/C014. The Prototype/C014. The Prototype.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C014. The Prototype/Program.cs" beforeDir="false" />
+    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp Players Guide.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp Players Guide.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +75,9 @@
     <setting file="file://$PROJECT_DIR$/C009. The Dominion of Kings/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C010. The Defense of Consolas/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C011. Repairing the Clocktower/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/C015. The Prototype/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/C016. The Magic Cannon/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C016. The Replicator of Ditto/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C017a. The Laws of Freach/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C017b. The Laws of Freach/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -83,61 +86,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0002653161285464" />
-      <entry key="MS500" value="1.192642777089602" />
-      <entry key="S2" value="1.6625035085226036" />
-      <entry key="S5" value="1.8481550905601467" />
-      <entry key="S10" value="1.9209533596010024" />
-      <entry key="S30" value="1.9731136768670603" />
-      <entry key="S60" value="2.028177114912624" />
-      <entry key="M2" value="2.7320843585355044" />
-      <entry key="M5" value="10.906659914914103" />
-      <entry key="M10" value="41.51539649351598" />
-      <entry key="M15" value="78.01634907858838" />
-      <entry key="M30" value="166.755223616697" />
-      <entry key="H1" value="258.83638086201694" />
-      <entry key="H2" value="328.08457994587354" />
-      <entry key="H4" value="371.0673140212232" />
-      <entry key="D1" value="412.1432102913059" />
-      <entry key="W1" value="419.7209075714912" />
+      <entry key="MS100" value="1.2848220608599537E-6" />
+      <entry key="MS500" value="0.06717275693109463" />
+      <entry key="S2" value="0.6792788287482818" />
+      <entry key="S5" value="1.3791603178774976" />
+      <entry key="S10" value="2.4020199436762324" />
+      <entry key="S30" value="8.6054336791964" />
+      <entry key="S60" value="17.2061655563861" />
+      <entry key="M2" value="28.91161964346214" />
+      <entry key="M5" value="50.37043021094053" />
+      <entry key="M10" value="77.95631199672438" />
+      <entry key="M15" value="107.59278861679456" />
+      <entry key="M30" value="193.71257394370136" />
+      <entry key="H1" value="303.0637291396825" />
+      <entry key="H2" value="396.3325960090324" />
+      <entry key="H4" value="458.3525262347605" />
+      <entry key="D1" value="520.3127254315874" />
+      <entry key="W1" value="532.0162986907765" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.686480185527823E-148" />
-      <entry key="S5" value="1.8533888832338496E-59" />
-      <entry key="S10" value="6.2862118910232805E-30" />
-      <entry key="S30" value="5.077553162722358E-10" />
-      <entry key="S60" value="7.033979997728317E-5" />
-      <entry key="M2" value="0.032681845000958026" />
-      <entry key="M5" value="2.025867978775057" />
-      <entry key="M10" value="10.574917686866192" />
-      <entry key="M15" value="20.192458405073985" />
-      <entry key="M30" value="43.1258191916889" />
-      <entry key="H1" value="67.26240174907969" />
-      <entry key="H2" value="85.75576230734289" />
-      <entry key="H4" value="97.37570816849237" />
-      <entry key="D1" value="108.57398405528899" />
-      <entry key="W1" value="110.64939191130195" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0003171802580932" />
+      <entry key="S2" value="1.177517061642532" />
+      <entry key="S5" value="1.900719107021893" />
+      <entry key="S10" value="2.9298850724896734" />
+      <entry key="S30" value="5.459704327904172" />
+      <entry key="S60" value="7.357286443793201" />
+      <entry key="M2" value="9.239044488202639" />
+      <entry key="M5" value="14.29395847494342" />
+      <entry key="M10" value="22.93015427051333" />
+      <entry key="M15" value="31.746847385536384" />
+      <entry key="M30" value="55.61792130746502" />
+      <entry key="H1" value="85.183549225262" />
+      <entry key="H2" value="110.43866574850203" />
+      <entry key="H4" value="127.3144809506238" />
+      <entry key="D1" value="144.24887760547233" />
+      <entry key="W1" value="147.45611937266327" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9528925062863302" />
-      <entry key="MS500" value="1.1813899370286705" />
-      <entry key="S2" value="1.6587042278357418" />
-      <entry key="S5" value="1.8464799729451224" />
-      <entry key="S10" value="1.9200853401662088" />
-      <entry key="S30" value="1.9728166479930496" />
-      <entry key="S60" value="2.0280521309818655" />
-      <entry key="M2" value="2.76374159767599" />
-      <entry key="M5" value="12.915904838029025" />
-      <entry key="M10" value="52.04493612383663" />
-      <entry key="M15" value="98.14885473788192" />
-      <entry key="M30" value="209.81480608504899" />
-      <entry key="H1" value="326.04672269525764" />
-      <entry key="H2" value="413.80715531824785" />
-      <entry key="H4" value="468.4242014825858" />
-      <entry key="D1" value="520.7137022011573" />
-      <entry key="W1" value="530.3697912308509" />
+      <entry key="MS100" value="0.001847773722857153" />
+      <entry key="MS500" value="0.30660119124020896" />
+      <entry key="S2" value="1.355195036111663" />
+      <entry key="S5" value="2.820683955825496" />
+      <entry key="S10" value="4.924100135661152" />
+      <entry key="S30" value="13.78009288009442" />
+      <entry key="S60" value="24.362754262800337" />
+      <entry key="M2" value="38.016257644926114" />
+      <entry key="M5" value="64.5590506282085" />
+      <entry key="M10" value="100.78931848996781" />
+      <entry key="M15" value="139.2459367246095" />
+      <entry key="M30" value="249.24518673472633" />
+      <entry key="H1" value="388.1811626955788" />
+      <entry key="H2" value="506.72831259453767" />
+      <entry key="H4" value="585.6422559974881" />
+      <entry key="D1" value="664.5569331492088" />
+      <entry key="W1" value="679.4717362486643" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -149,41 +152,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.C001. Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0012. Buying Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0013. Discounted Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C008. The Four Sisters and the Duckbear.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C009. The Dominion of Kings.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C010. The Defense of Consolas.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C011. Repairing the Clocktower.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C015. The Prototype.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C016. The Magic Cannon.executor&quot;: &quot;Run&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.C001. Hello World.executor": "Run",
+    ".NET Project.C0012. Buying Inventory.executor": "Run",
+    ".NET Project.C0013. Discounted Inventory.executor": "Run",
+    ".NET Project.C008. The Four Sisters and the Duckbear.executor": "Run",
+    ".NET Project.C009. The Dominion of Kings.executor": "Run",
+    ".NET Project.C010. The Defense of Consolas.executor": "Run",
+    ".NET Project.C011. Repairing the Clocktower.executor": "Run",
+    ".NET Project.C015. The Prototype.executor": "Run",
+    ".NET Project.C016. The Magic Cannon.executor": "Run",
+    ".NET Project.C016. The Replicator of Ditto.executor": "Run",
+    ".NET Project.C017a. The Laws of Freach.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.C016. The Magic Cannon">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.C017b. The Laws of Freach">
     <configuration name="C0012. Buying Inventory" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -520,6 +525,69 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="C016. The Replicator of Ditto" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C016. The Replicator of Ditto/C016. The Replicator of Ditto.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="C017a. The Laws of Freach" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C017a. The Laws of Freach/C017a. The Laws of Freach.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="C017b. The Laws of Freach" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C017b. The Laws of Freach/C017b. The Laws of Freach.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Lanre\AppData\Roaming\Subversion</configuration>
@@ -542,10 +610,12 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Smth" />
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="Master Test" />
     <MESSAGE value="Workspace Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Workspace Commit" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Fix project numbering" />
+    <MESSAGE value="Fix the Replicator of Ditto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix the Replicator of Ditto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
