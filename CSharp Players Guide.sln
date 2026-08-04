@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C014. The Prototype", "C014
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C015. The Magic Cannon", "C015. The Magic Cannon\C015. The Magic Cannon.csproj", "{9BEFDE86-5CD6-459F-A63E-0D83342AAA50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C016. The Replicator of Ditto", "C016. The Replicator of Ditto\C016. The Replicator of Ditto.csproj", "{92B44079-2571-433F-894C-1F5A52FDD969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{9BEFDE86-5CD6-459F-A63E-0D83342AAA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BEFDE86-5CD6-459F-A63E-0D83342AAA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BEFDE86-5CD6-459F-A63E-0D83342AAA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B44079-2571-433F-894C-1F5A52FDD969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B44079-2571-433F-894C-1F5A52FDD969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B44079-2571-433F-894C-1F5A52FDD969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B44079-2571-433F-894C-1F5A52FDD969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
