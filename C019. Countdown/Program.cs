@@ -3,8 +3,8 @@
     Console.WriteLine(x);
     if (x == 1)
         return;
-    else
-        CountdownFrom(x-1);
+        
+    CountdownFrom(x-1);
 }
 
 // It's the Final Countdown!
