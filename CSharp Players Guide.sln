@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C017b. The Laws of Freach",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C018. Taking a Number", "C018. Taking a Number\C018. Taking a Number.csproj", "{BD898AD5-5A12-4757-ABBA-5B4978D37F62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C019. Countdown", "C019. Countdown\C019. Countdown.csproj", "{8BABE871-0B1F-4047-91D4-C821AFD78091}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{BD898AD5-5A12-4757-ABBA-5B4978D37F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD898AD5-5A12-4757-ABBA-5B4978D37F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD898AD5-5A12-4757-ABBA-5B4978D37F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BABE871-0B1F-4047-91D4-C821AFD78091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BABE871-0B1F-4047-91D4-C821AFD78091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BABE871-0B1F-4047-91D4-C821AFD78091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BABE871-0B1F-4047-91D4-C821AFD78091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

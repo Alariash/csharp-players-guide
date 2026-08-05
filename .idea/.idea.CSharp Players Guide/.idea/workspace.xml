@@ -21,6 +21,7 @@
     <projectFile>C017a. The Laws of Freach/C017a. The Laws of Freach.csproj</projectFile>
     <projectFile>C017b. The Laws of Freach/C017b. The Laws of Freach.csproj</projectFile>
     <projectFile>C018. Taking a Number/C018. Taking a Number.csproj</projectFile>
+    <projectFile>C019. Countdown/C019. Countdown.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -34,8 +35,6 @@
   <component name="ChangeListManager">
     <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C009. The Dominion of Kings/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/C009. The Dominion of Kings/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C014. The Prototype/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/C014. The Prototype/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharp Players Guide.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp Players Guide.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +81,7 @@
     <setting file="file://$PROJECT_DIR$/C017a. The Laws of Freach/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C017b. The Laws of Freach/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C018. Taking a Number/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C019. Countdown/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -90,61 +90,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000812656336082" />
-      <entry key="S5" value="1.0238192316594172" />
-      <entry key="S10" value="1.2545363072796658" />
-      <entry key="S30" value="4.682737858879389" />
-      <entry key="S60" value="10.390886266431822" />
-      <entry key="M2" value="20.201561970164622" />
-      <entry key="M5" value="51.360769192831384" />
-      <entry key="M10" value="103.20534527427054" />
-      <entry key="M15" value="147.97301736928134" />
-      <entry key="M30" value="257.85931772407804" />
-      <entry key="H1" value="398.32467421944926" />
-      <entry key="H2" value="526.0147504603294" />
-      <entry key="H4" value="615.0900331381739" />
-      <entry key="D1" value="707.2360874097086" />
-      <entry key="W1" value="724.9817261006303" />
+      <entry key="MS100" value="1.0961535932553326E-105" />
+      <entry key="MS500" value="1.01926223959349E-21" />
+      <entry key="S2" value="6.575181141455856E-6" />
+      <entry key="S5" value="0.012106186946063989" />
+      <entry key="S10" value="0.1787082130379266" />
+      <entry key="S30" value="2.7924933510276757" />
+      <entry key="S60" value="9.65306412537279" />
+      <entry key="M2" value="20.763654020470433" />
+      <entry key="M5" value="43.21259367801221" />
+      <entry key="M10" value="84.63394003820093" />
+      <entry key="M15" value="127.38267192295442" />
+      <entry key="M30" value="241.68183993997613" />
+      <entry key="H1" value="396.85302428525773" />
+      <entry key="H2" value="544.6747538179726" />
+      <entry key="H4" value="650.9875765992343" />
+      <entry key="D1" value="763.3669062618834" />
+      <entry key="W1" value="785.2671573469223" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="4.357149846154224E-92" />
-      <entry key="S2" value="1.4447763502153435E-23" />
-      <entry key="S5" value="7.310048382443816E-10" />
-      <entry key="S10" value="2.7038842977125378E-5" />
-      <entry key="S30" value="0.03124289107656882" />
-      <entry key="S60" value="0.22499938457472074" />
-      <entry key="M2" value="1.1309301874819464" />
-      <entry key="M5" value="6.994240357208828" />
-      <entry key="M10" value="18.485612356601337" />
-      <entry key="M15" value="29.273975899728438" />
-      <entry key="M30" value="57.243895675171935" />
-      <entry key="H1" value="93.97350036591205" />
-      <entry key="H2" value="127.81974963221329" />
-      <entry key="H4" value="151.62652026392632" />
-      <entry key="D1" value="176.39912979595792" />
-      <entry key="W1" value="181.18544042952843" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000002728548423" />
+      <entry key="S5" value="1.0085352255262698" />
+      <entry key="S10" value="1.1420101281671429" />
+      <entry key="S30" value="2.4410152467003026" />
+      <entry key="S60" value="4.3726558134668005" />
+      <entry key="M2" value="6.766926669103854" />
+      <entry key="M5" value="10.37329566588229" />
+      <entry key="M10" value="17.60083724751386" />
+      <entry key="M15" value="26.391137586557054" />
+      <entry key="M30" value="52.98084886877518" />
+      <entry key="H1" value="91.74523658747626" />
+      <entry key="H2" value="129.80671424579444" />
+      <entry key="H4" value="157.58146122241698" />
+      <entry key="D1" value="187.2092296036825" />
+      <entry key="W1" value="193.01038620611604" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9265880618903709" />
-      <entry key="MS500" value="0.9848664428955506" />
-      <entry key="S2" value="0.9962686471728753" />
-      <entry key="S5" value="1.021398577556205" />
-      <entry key="S10" value="1.2497158686376149" />
-      <entry key="S30" value="4.695348418331855" />
-      <entry key="S60" value="10.591286747958087" />
-      <entry key="M2" value="21.30165543614639" />
-      <entry key="M5" value="58.3023095127919" />
-      <entry key="M10" value="121.62055702055152" />
-      <entry key="M15" value="177.1697627037699" />
-      <entry key="M30" value="315.02270047335855" />
-      <entry key="H1" value="492.22961667985174" />
-      <entry key="H2" value="653.7871423253363" />
-      <entry key="H4" value="766.6882852663311" />
-      <entry key="D1" value="883.6297121483723" />
-      <entry key="W1" value="906.1663582253676" />
+      <entry key="MS100" value="5.125569744253259E-4" />
+      <entry key="MS500" value="0.21975989022794673" />
+      <entry key="S2" value="0.6846862585453983" />
+      <entry key="S5" value="0.8774772952972414" />
+      <entry key="S10" value="1.2245727462716176" />
+      <entry key="S30" value="5.107949652630355" />
+      <entry key="S60" value="13.886019166184141" />
+      <entry key="M2" value="27.412256959038462" />
+      <entry key="M5" value="53.51000608333949" />
+      <entry key="M10" value="102.16899805583101" />
+      <entry key="M15" value="153.70604416041607" />
+      <entry key="M30" value="294.59009311673054" />
+      <entry key="H1" value="488.5326055108358" />
+      <entry key="H2" value="674.4340841837327" />
+      <entry key="H4" value="808.5400296971658" />
+      <entry key="D1" value="950.5703569390628" />
+      <entry key="W1" value="978.2766916042763" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -172,6 +172,7 @@
     ".NET Project.C017a. The Laws of Freach.executor": "Run",
     ".NET Project.C017b. The Laws of Freach.executor": "Run",
     ".NET Project.C018. Taking a Number.executor": "Run",
+    ".NET Project.C019. Countdown.executor": "Run",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -195,7 +196,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.C0014. The Prototype">
+  <component name="RunManager" selected=".NET Project.C019. Countdown">
     <configuration name="C0012. Buying Inventory" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -616,6 +617,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="C019. Countdown" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C019. Countdown/C019. Countdown.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Lanre\AppData\Roaming\Subversion</configuration>
@@ -644,7 +666,8 @@
     <MESSAGE value="Fix project numbering" />
     <MESSAGE value="Fix the Replicator of Ditto" />
     <MESSAGE value="Fix the code for Freach [for a price]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix the code for Freach [for a price]" />
+    <MESSAGE value="Solve the &quot;Taking a Number&quot; challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve the &quot;Taking a Number&quot; challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
