@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C018. Taking a Number", "C0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C019. Countdown", "C019. Countdown\C019. Countdown.csproj", "{8BABE871-0B1F-4047-91D4-C821AFD78091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C000. The Lab", "C000. The Lab\C000. The Lab.csproj", "{2CD4E70E-0F41-4FB3-AB2A-8E3A558B1D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C020. Hunting the Manticore", "C020. Hunting the Manticore\C020. Hunting the Manticore.csproj", "{CE9B2F09-5532-4E4E-BBA9-4F8EB852C1B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +130,13 @@ Global
 		{8BABE871-0B1F-4047-91D4-C821AFD78091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BABE871-0B1F-4047-91D4-C821AFD78091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BABE871-0B1F-4047-91D4-C821AFD78091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD4E70E-0F41-4FB3-AB2A-8E3A558B1D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD4E70E-0F41-4FB3-AB2A-8E3A558B1D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD4E70E-0F41-4FB3-AB2A-8E3A558B1D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD4E70E-0F41-4FB3-AB2A-8E3A558B1D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9B2F09-5532-4E4E-BBA9-4F8EB852C1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9B2F09-5532-4E4E-BBA9-4F8EB852C1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9B2F09-5532-4E4E-BBA9-4F8EB852C1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9B2F09-5532-4E4E-BBA9-4F8EB852C1B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
