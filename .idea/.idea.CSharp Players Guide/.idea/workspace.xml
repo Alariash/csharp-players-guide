@@ -24,6 +24,7 @@
     <projectFile>C018. Taking a Number/C018. Taking a Number.csproj</projectFile>
     <projectFile>C019. Countdown/C019. Countdown.csproj</projectFile>
     <projectFile>C020. Hunting the Manticore/C020. Hunting the Manticore.csproj</projectFile>
+    <projectFile>C021. Simulas Test/C021. Simulas Test.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -35,7 +36,10 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="" />
+    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp Players Guide.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp Players Guide.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +87,7 @@
     <setting file="file://$PROJECT_DIR$/C018. Taking a Number/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C019. Countdown/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C020. Hunting the Manticore/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C021. Simulas Test/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -91,61 +96,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0175795393902392" />
-      <entry key="MS500" value="1.5132715898446887" />
-      <entry key="S2" value="3.3064591930898812" />
-      <entry key="S5" value="5.276315130053038" />
-      <entry key="S10" value="6.615371106506687" />
-      <entry key="S30" value="9.527256324799492" />
-      <entry key="S60" value="11.544755388958784" />
-      <entry key="M2" value="13.213447235159016" />
-      <entry key="M5" value="19.74452957957234" />
-      <entry key="M10" value="40.62074652902907" />
-      <entry key="M15" value="66.2678440023577" />
-      <entry key="M30" value="156.47401543329292" />
-      <entry key="H1" value="347.8715704817249" />
-      <entry key="H2" value="621.394443405685" />
-      <entry key="H4" value="879.4488088071698" />
-      <entry key="D1" value="1211.4799835322144" />
-      <entry key="W1" value="1283.4858470811575" />
+      <entry key="MS100" value="1.9848801396053504E-41" />
+      <entry key="MS500" value="7.236805028546614E-9" />
+      <entry key="S2" value="0.009435268069860657" />
+      <entry key="S5" value="0.2114979969539901" />
+      <entry key="S10" value="0.8633125758233431" />
+      <entry key="S30" value="3.8219716884596853" />
+      <entry key="S60" value="9.458944121254413" />
+      <entry key="M2" value="21.13418054791697" />
+      <entry key="M5" value="43.588139039627386" />
+      <entry key="M10" value="67.97968923584565" />
+      <entry key="M15" value="84.25356888043298" />
+      <entry key="M30" value="109.52360096718762" />
+      <entry key="H1" value="133.4132765916739" />
+      <entry key="H2" value="220.55503381059117" />
+      <entry key="H4" value="464.8858467099626" />
+      <entry key="D1" value="1175.7509356994187" />
+      <entry key="W1" value="1406.6797106914912" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.727387088699469E-73" />
-      <entry key="MS500" value="4.0523716398444955E-15" />
-      <entry key="S2" value="4.00147562165052E-4" />
-      <entry key="S5" value="0.06719641078458591" />
-      <entry key="S10" value="0.3982640746138639" />
-      <entry key="S30" value="1.4604265649204837" />
-      <entry key="S60" value="2.0784368411343355" />
-      <entry key="M2" value="2.589331760301312" />
-      <entry key="M5" value="5.099325207656193" />
-      <entry key="M10" value="12.080391592084217" />
-      <entry key="M15" value="20.030620494611618" />
-      <entry key="M30" value="44.58718898502204" />
-      <entry key="H1" value="90.94115622378403" />
-      <entry key="H2" value="155.9435456184477" />
-      <entry key="H4" value="217.82299678440185" />
-      <entry key="D1" value="298.3547956924842" />
-      <entry key="W1" value="315.9398248740065" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000054468599" />
+      <entry key="S2" value="1.0152784013449299" />
+      <entry key="S5" value="1.1924524799081142" />
+      <entry key="S10" value="1.5109265166995494" />
+      <entry key="S30" value="2.61390341277838" />
+      <entry key="S60" value="4.476131002394164" />
+      <entry key="M2" value="8.054731972022296" />
+      <entry key="M5" value="14.21693988484927" />
+      <entry key="M10" value="19.156555976677456" />
+      <entry key="M15" value="21.86579110573559" />
+      <entry key="M30" value="25.624072111141015" />
+      <entry key="H1" value="29.63524820662554" />
+      <entry key="H2" value="50.05264660771987" />
+      <entry key="H4" value="109.3770028363972" />
+      <entry key="D1" value="282.9088597367724" />
+      <entry key="W1" value="339.39820753828013" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9966380552877998" />
-      <entry key="MS500" value="1.5069573305554012" />
-      <entry key="S2" value="3.302323209005341" />
-      <entry key="S5" value="5.329699132800016" />
-      <entry key="S10" value="6.978505705471919" />
-      <entry key="S30" value="10.944200993835613" />
-      <entry key="S60" value="13.591856033362895" />
-      <entry key="M2" value="15.782581684677897" />
-      <entry key="M5" value="24.822069415255935" />
-      <entry key="M10" value="52.668984067720196" />
-      <entry key="M15" value="86.26064746846174" />
-      <entry key="M30" value="201.01529961588298" />
-      <entry key="H1" value="438.7607532705701" />
-      <entry key="H2" value="777.2898887967193" />
-      <entry key="H4" value="1097.236845594191" />
-      <entry key="D1" value="1509.8265422800066" />
-      <entry key="W1" value="1599.4244194651658" />
+      <entry key="MS100" value="0.0049443616951964035" />
+      <entry key="MS500" value="0.34579766652484034" />
+      <entry key="S2" value="0.7829228276411887" />
+      <entry key="S5" value="1.2455825701499517" />
+      <entry key="S10" value="2.225796275491249" />
+      <entry key="S30" value="6.259862044368614" />
+      <entry key="S60" value="13.732344371078309" />
+      <entry key="M2" value="28.98496621207591" />
+      <entry key="M5" value="57.658719626419746" />
+      <entry key="M10" value="87.03987615655917" />
+      <entry key="M15" value="106.04719229640607" />
+      <entry key="M30" value="135.10631740779698" />
+      <entry key="H1" value="163.025284791842" />
+      <entry key="H2" value="270.5896877919033" />
+      <entry key="H4" value="574.2441976023478" />
+      <entry key="D1" value="1458.6518278560989" />
+      <entry key="W1" value="1746.0765509325613" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -157,48 +162,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.C000. The Lab.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C001. Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0012. Buying Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0013. Discounted Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0014. The Prototype.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C008. The Four Sisters and the Duckbear.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C009. The Dominion of Kings.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C010. The Defense of Consolas.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C011. Repairing the Clocktower.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C015. The Prototype.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C016. The Magic Cannon.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C016. The Replicator of Ditto.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C017a. The Laws of Freach.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C017b. The Laws of Freach.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C018. Taking a Number.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C019. Countdown.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C020. Hunting the Manticore.executor&quot;: &quot;Run&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.C000. The Lab.executor": "Run",
+    ".NET Project.C001. Hello World.executor": "Run",
+    ".NET Project.C0012. Buying Inventory.executor": "Run",
+    ".NET Project.C0013. Discounted Inventory.executor": "Run",
+    ".NET Project.C0014. The Prototype.executor": "Run",
+    ".NET Project.C008. The Four Sisters and the Duckbear.executor": "Run",
+    ".NET Project.C009. The Dominion of Kings.executor": "Run",
+    ".NET Project.C010. The Defense of Consolas.executor": "Run",
+    ".NET Project.C011. Repairing the Clocktower.executor": "Run",
+    ".NET Project.C015. The Prototype.executor": "Run",
+    ".NET Project.C016. The Magic Cannon.executor": "Run",
+    ".NET Project.C016. The Replicator of Ditto.executor": "Run",
+    ".NET Project.C017a. The Laws of Freach.executor": "Run",
+    ".NET Project.C017b. The Laws of Freach.executor": "Run",
+    ".NET Project.C018. Taking a Number.executor": "Run",
+    ".NET Project.C019. Countdown.executor": "Run",
+    ".NET Project.C020. Hunting the Manticore.executor": "Run",
+    ".NET Project.C021. Simulas Test.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.C020. Hunting the Manticore">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.C021. Simulas Test">
     <configuration name="C000. The Lab" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -673,6 +679,27 @@
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/C020. Hunting the Manticore/C020. Hunting the Manticore.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="C021. Simulas Test" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C021. Simulas Test/C021. Simulas Test.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
