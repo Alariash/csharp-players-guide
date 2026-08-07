@@ -29,4 +29,3 @@ while (true)
 }
     
 enum ChestState {Locked, Closed, Open};
-
