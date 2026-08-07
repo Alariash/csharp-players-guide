@@ -14,14 +14,14 @@ while (true)
 {
     round++;
     cannonDamage = GetCannonDamage(round);
-    Console.ForegroundColor = ConsoleColor.Gray;
+    Console.ResetColor();
     Console.WriteLine("---------------------------------------------------------");
     Console.WriteLine($"STATUS: Round: {round} City: {cityHealth}/15 Manticore: {manticoreHealth}/10");
     Console.WriteLine($"The cannon is expected to deal {cannonDamage} damage this round.");
     
     // Try to hit the manticore
     cannonRange = GetRange("Enter desired cannon range: ");
-    if(IsTargetHit(cannonRange, manticorePosition)) manticoreHealth -= GetCannonDamage(round);
+    if (IsTargetHit(cannonRange, manticorePosition)) manticoreHealth -= cannonDamage;
 
     if (manticoreHealth < 0) break;
 
@@ -31,8 +31,6 @@ while (true)
 }
 
 // End the game
-Console.WriteLine(manticoreHealth<0 ? "The Manticore has been destroyed! The city of Consolas has been saved!" : "The city of Consolas has been destroyed!");
-// Redo, give colors
 if (manticoreHealth <= 0)
 {
     Console.ForegroundColor = ConsoleColor.Yellow;
