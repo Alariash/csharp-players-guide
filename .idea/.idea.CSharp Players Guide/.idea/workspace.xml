@@ -25,6 +25,7 @@
     <projectFile>C019. Countdown/C019. Countdown.csproj</projectFile>
     <projectFile>C020. Hunting the Manticore/C020. Hunting the Manticore.csproj</projectFile>
     <projectFile>C021. Simulas Test/C021. Simulas Test.csproj</projectFile>
+    <projectFile>C022. Simulas Soup/C022. Simulas Soup.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -88,6 +89,7 @@
     <setting file="file://$PROJECT_DIR$/C019. Countdown/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C020. Hunting the Manticore/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C021. Simulas Test/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C022. Simulas Soup/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -96,61 +98,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.9848801396053504E-41" />
-      <entry key="MS500" value="7.236805028546614E-9" />
-      <entry key="S2" value="0.009435268069860657" />
-      <entry key="S5" value="0.2114979969539901" />
-      <entry key="S10" value="0.8633125758233431" />
-      <entry key="S30" value="3.8219716884596853" />
-      <entry key="S60" value="9.458944121254413" />
-      <entry key="M2" value="21.13418054791697" />
-      <entry key="M5" value="43.588139039627386" />
-      <entry key="M10" value="67.97968923584565" />
-      <entry key="M15" value="84.25356888043298" />
-      <entry key="M30" value="109.52360096718762" />
-      <entry key="H1" value="133.4132765916739" />
-      <entry key="H2" value="220.55503381059117" />
-      <entry key="H4" value="464.8858467099626" />
-      <entry key="D1" value="1175.7509356994187" />
-      <entry key="W1" value="1406.6797106914912" />
+      <entry key="MS100" value="7.525371413946979E-198" />
+      <entry key="MS500" value="3.761019523626678E-40" />
+      <entry key="S2" value="1.3926000235890225E-10" />
+      <entry key="S5" value="1.1420783555557799E-4" />
+      <entry key="S10" value="0.010897708672504848" />
+      <entry key="S30" value="0.34858843232791137" />
+      <entry key="S60" value="1.63290590844071" />
+      <entry key="M2" value="5.452328010303086" />
+      <entry key="M5" value="29.96067742111193" />
+      <entry key="M10" value="81.18392678008445" />
+      <entry key="M15" value="121.83332725469403" />
+      <entry key="M30" value="193.36966467926078" />
+      <entry key="H1" value="254.9468796981332" />
+      <entry key="H2" value="359.3427205657097" />
+      <entry key="H4" value="608.5091466805701" />
+      <entry key="D1" value="1342.560607502695" />
+      <entry key="W1" value="1585.279556491273" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000054468599" />
-      <entry key="S2" value="1.0152784013449299" />
-      <entry key="S5" value="1.1924524799081142" />
-      <entry key="S10" value="1.5109265166995494" />
-      <entry key="S30" value="2.61390341277838" />
-      <entry key="S60" value="4.476131002394164" />
-      <entry key="M2" value="8.054731972022296" />
-      <entry key="M5" value="14.21693988484927" />
-      <entry key="M10" value="19.156555976677456" />
-      <entry key="M15" value="21.86579110573559" />
-      <entry key="M30" value="25.624072111141015" />
-      <entry key="H1" value="29.63524820662554" />
-      <entry key="H2" value="50.05264660771987" />
-      <entry key="H4" value="109.3770028363972" />
-      <entry key="D1" value="282.9088597367724" />
-      <entry key="W1" value="339.39820753828013" />
+      <entry key="MS100" value="1.0000000634414066" />
+      <entry key="MS500" value="1.0363633557961804" />
+      <entry key="S2" value="1.5307503434277565" />
+      <entry key="S5" value="2.34654723004409" />
+      <entry key="S10" value="3.2565020831720126" />
+      <entry key="S30" value="5.459756974346374" />
+      <entry key="S60" value="7.362536207447919" />
+      <entry key="M2" value="9.420192334208592" />
+      <entry key="M5" value="13.786806472973572" />
+      <entry key="M10" value="20.435193053534494" />
+      <entry key="M15" value="25.787467943585558" />
+      <entry key="M30" value="35.40916496072493" />
+      <entry key="H1" value="44.320976061203154" />
+      <entry key="H2" value="66.11463258235882" />
+      <entry key="H4" value="125.00031133138559" />
+      <entry key="D1" value="302.7424071833746" />
+      <entry key="W1" value="361.8547863156645" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0049443616951964035" />
-      <entry key="MS500" value="0.34579766652484034" />
-      <entry key="S2" value="0.7829228276411887" />
-      <entry key="S5" value="1.2455825701499517" />
-      <entry key="S10" value="2.225796275491249" />
-      <entry key="S30" value="6.259862044368614" />
-      <entry key="S60" value="13.732344371078309" />
-      <entry key="M2" value="28.98496621207591" />
-      <entry key="M5" value="57.658719626419746" />
-      <entry key="M10" value="87.03987615655917" />
-      <entry key="M15" value="106.04719229640607" />
-      <entry key="M30" value="135.10631740779698" />
-      <entry key="H1" value="163.025284791842" />
-      <entry key="H2" value="270.5896877919033" />
-      <entry key="H4" value="574.2441976023478" />
-      <entry key="D1" value="1458.6518278560989" />
-      <entry key="W1" value="1746.0765509325613" />
+      <entry key="MS100" value="6.7058784793169E-8" />
+      <entry key="MS500" value="0.03911553026789939" />
+      <entry key="S2" value="0.6924616827078475" />
+      <entry key="S5" value="1.636228350606053" />
+      <entry key="S10" value="2.6744692350057795" />
+      <entry key="S30" value="5.456663652275824" />
+      <entry key="S60" value="8.764508180920911" />
+      <entry key="M2" value="14.7225237278126" />
+      <entry key="M5" value="43.65156259746996" />
+      <entry key="M10" value="101.54037657007112" />
+      <entry key="M15" value="147.55146181209307" />
+      <entry key="M30" value="228.72915513438227" />
+      <entry key="H1" value="299.2364019124571" />
+      <entry key="H2" value="425.4345169312481" />
+      <entry key="H4" value="733.4883938409602" />
+      <entry key="D1" value="1645.29452342048" />
+      <entry key="W1" value="1947.1328901153158" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -182,6 +184,7 @@
     ".NET Project.C019. Countdown.executor": "Run",
     ".NET Project.C020. Hunting the Manticore.executor": "Run",
     ".NET Project.C021. Simulas Test.executor": "Run",
+    ".NET Project.C022. Simulas Soup.executor": "Run",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -204,7 +207,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.C021. Simulas Test">
+  <component name="RunManager" selected=".NET Project.C022. Simulas Soup">
     <configuration name="C000. The Lab" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -709,6 +712,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="C022. Simulas Soup" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C022. Simulas Soup/C022. Simulas Soup.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Lanre\AppData\Roaming\Subversion</configuration>
@@ -742,7 +766,8 @@
     <MESSAGE value="Clean up the &quot;Countdown&quot; challenge" />
     <MESSAGE value="Destroy the Manticore" />
     <MESSAGE value="Minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor fixes" />
+    <MESSAGE value="Solve the Simula's Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve the Simula's Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

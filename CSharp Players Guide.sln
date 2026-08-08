@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C020. Hunting the Manticore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C021. Simulas Test", "C021. Simulas Test\C021. Simulas Test.csproj", "{A21BCEAB-E24C-4106-BD4F-B92CB8DD861F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C022. Simulas Soup", "C022. Simulas Soup\C022. Simulas Soup.csproj", "{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{A21BCEAB-E24C-4106-BD4F-B92CB8DD861F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A21BCEAB-E24C-4106-BD4F-B92CB8DD861F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A21BCEAB-E24C-4106-BD4F-B92CB8DD861F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
