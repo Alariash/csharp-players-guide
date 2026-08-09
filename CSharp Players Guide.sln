@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C021. Simulas Test", "C021.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C022. Simulas Soup", "C022. Simulas Soup\C022. Simulas Soup.csproj", "{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C023. Vin Fletchers Arrows", "C023. Vin Fletchers Arrows\C023. Vin Fletchers Arrows.csproj", "{D0A793E0-DF73-4F8D-B61D-DEE2130C1E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F0FD0A-C50C-439F-BB60-DB9AF83FEF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A793E0-DF73-4F8D-B61D-DEE2130C1E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A793E0-DF73-4F8D-B61D-DEE2130C1E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A793E0-DF73-4F8D-B61D-DEE2130C1E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A793E0-DF73-4F8D-B61D-DEE2130C1E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
