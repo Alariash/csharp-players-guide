@@ -1,5 +1,19 @@
 ﻿Arrow arrow = new Arrow("steel", 60, "plastic");
+
+Console.WriteLine("Choose the arrowhead [steel/wood/obsidian]: ");
+arrow._arrowhead = Console.ReadLine();
+
+Console.WriteLine("Choose the shaft [plastic/turkey/goose]: ");
+arrow._fletching = Console.ReadLine();
+
+Console.WriteLine("Choose the shaft length [60-100cm]:");
+arrow._shaftLength = Convert.ToInt32(Console.ReadLine());
+
+// TODO Remake into enums
+
 Console.WriteLine($"The cost of the arrow is: {arrow.CalculateCost()}");
+
+
 
 class Arrow
 {
@@ -14,7 +28,7 @@ class Arrow
         _fletching = fletching;
     }
     
-    // Calculate price
+    // Calculate price TODO Add cases for each material and length
     public decimal CalculateCost()
     {
         decimal cost = 0;
