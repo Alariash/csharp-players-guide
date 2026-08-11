@@ -101,61 +101,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.4446153270356866E-27" />
-      <entry key="MS500" value="5.364964294102168E-6" />
-      <entry key="S2" value="0.048127416689008065" />
-      <entry key="S5" value="0.2989758759717187" />
-      <entry key="S10" value="0.6141931102094642" />
-      <entry key="S30" value="1.9217341072648844" />
-      <entry key="S60" value="4.34652479391566" />
-      <entry key="M2" value="13.005690072611946" />
-      <entry key="M5" value="52.7201596411676" />
-      <entry key="M10" value="113.85333079537708" />
-      <entry key="M15" value="164.74922009434977" />
-      <entry key="M30" value="266.66234099562075" />
-      <entry key="H1" value="363.05564148343825" />
-      <entry key="H2" value="489.2167087369174" />
-      <entry key="H4" value="747.9282373299866" />
-      <entry key="D1" value="1505.8315929831253" />
-      <entry key="W1" value="1759.1460037476695" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000142731898305" />
+      <entry key="S5" value="1.0161950001272648" />
+      <entry key="S10" value="1.2029900469818688" />
+      <entry key="S30" value="2.4987047824340296" />
+      <entry key="S60" value="3.9975715877220734" />
+      <entry key="M2" value="6.1036137344747985" />
+      <entry key="M5" value="19.85858297369402" />
+      <entry key="M10" value="65.29250134819075" />
+      <entry key="M15" value="117.24094291705731" />
+      <entry key="M30" value="249.80445995620144" />
+      <entry key="H1" value="402.40189194690123" />
+      <entry key="H2" value="574.7663200726078" />
+      <entry key="H4" value="858.9691082327943" />
+      <entry key="D1" value="1666.2533134029245" />
+      <entry key="W1" value="1939.2290489401798" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.000000000000186" />
-      <entry key="MS500" value="1.002843729587889" />
-      <entry key="S2" value="1.2310201356231396" />
-      <entry key="S5" value="1.6156035481458286" />
-      <entry key="S10" value="2.3271234840722075" />
-      <entry key="S30" value="5.049862609495226" />
-      <entry key="S60" value="7.561630369129611" />
-      <entry key="M2" value="11.344688532847455" />
-      <entry key="M5" value="20.095895617456172" />
-      <entry key="M10" value="30.637909234563132" />
-      <entry key="M15" value="38.69849210613167" />
-      <entry key="M30" value="54.12662334022692" />
-      <entry key="H1" value="68.71831654592914" />
-      <entry key="H2" value="93.35421084279979" />
-      <entry key="H4" value="152.9628383783028" />
-      <entry key="D1" value="334.96968865324556" />
-      <entry key="W1" value="396.38209939374957" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.1687258732499886E-99" />
+      <entry key="S2" value="1.999212490202655E-25" />
+      <entry key="S5" value="1.9215951183162016E-10" />
+      <entry key="S10" value="2.509604168418406E-5" />
+      <entry key="S30" value="0.08251657639084486" />
+      <entry key="S60" value="0.7850483028356717" />
+      <entry key="M2" value="3.552957469324449" />
+      <entry key="M5" value="14.089058928378584" />
+      <entry key="M10" value="29.72895644845122" />
+      <entry key="M15" value="42.6623433784929" />
+      <entry key="M30" value="69.88970905288201" />
+      <entry key="H1" value="97.80586085845202" />
+      <entry key="H2" value="131.3802333949691" />
+      <entry key="H4" value="195.10163055805296" />
+      <entry key="D1" value="386.7687219312931" />
+      <entry key="W1" value="452.50659714143023" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="6.810271808352145E-4" />
-      <entry key="MS500" value="0.2331760251175506" />
-      <entry key="S2" value="0.8858246424813763" />
-      <entry key="S5" value="1.654734688284125" />
-      <entry key="S10" value="2.718558873608249" />
-      <entry key="S30" value="6.764884571694539" />
-      <entry key="S60" value="11.73764980662166" />
-      <entry key="M2" value="24.20362795661794" />
-      <entry key="M5" value="72.68023329160984" />
-      <entry key="M10" value="144.37374380446443" />
-      <entry key="M15" value="203.34421289865423" />
-      <entry key="M30" value="320.7132878037616" />
-      <entry key="H1" value="431.7250886657656" />
-      <entry key="H2" value="582.5381698134821" />
-      <entry key="H4" value="900.8648649765898" />
-      <entry key="D1" value="1840.7918070230019" />
-      <entry key="W1" value="2155.5265006168283" />
+      <entry key="MS100" value="0.0012446881126164664" />
+      <entry key="MS500" value="0.2624291709057668" />
+      <entry key="S2" value="0.7157504978272918" />
+      <entry key="S5" value="0.8903788596935392" />
+      <entry key="S10" value="1.1183907230311605" />
+      <entry key="S30" value="2.4326951256098397" />
+      <entry key="S60" value="4.622036886872196" />
+      <entry key="M2" value="9.51062686631782" />
+      <entry key="M5" value="33.8220407019437" />
+      <entry key="M10" value="94.90707767361248" />
+      <entry key="M15" value="159.79578650561785" />
+      <entry key="M30" value="319.6048044997315" />
+      <entry key="H1" value="500.1438990947836" />
+      <entry key="H2" value="706.1033414553349" />
+      <entry key="H4" value="1054.0385927534883" />
+      <entry key="D1" value="2053.011303087722" />
+      <entry key="W1" value="2391.733846626683" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -805,7 +805,8 @@
     <MESSAGE value="Solve the Simula's Test" />
     <MESSAGE value="Solve the Simulas Soup challenge" />
     <MESSAGE value="Start on the Vin Fletchers Arrows challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start on the Vin Fletchers Arrows challenge" />
+    <MESSAGE value="Update the Vin Fletchers Arrows challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the Vin Fletchers Arrows challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
