@@ -27,6 +27,7 @@
     <projectFile>C021. Simulas Test/C021. Simulas Test.csproj</projectFile>
     <projectFile>C022. Simulas Soup/C022. Simulas Soup.csproj</projectFile>
     <projectFile>C023. Vin Fletchers Arrows/C023. Vin Fletchers Arrows.csproj</projectFile>
+    <projectFile>C024. Vins Trouble/C024. Vins Trouble.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -41,6 +42,7 @@
     <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/C023. Vin Fletchers Arrows/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/C023. Vin Fletchers Arrows/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharp Players Guide.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp Players Guide.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +95,7 @@
     <setting file="file://$PROJECT_DIR$/C021. Simulas Test/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C022. Simulas Soup/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C023. Vin Fletchers Arrows/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C024. Vins Trouble/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -101,61 +104,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000142731898305" />
-      <entry key="S5" value="1.0161950001272648" />
-      <entry key="S10" value="1.2029900469818688" />
-      <entry key="S30" value="2.4987047824340296" />
-      <entry key="S60" value="3.9975715877220734" />
-      <entry key="M2" value="6.1036137344747985" />
-      <entry key="M5" value="19.85858297369402" />
-      <entry key="M10" value="65.29250134819075" />
-      <entry key="M15" value="117.24094291705731" />
-      <entry key="M30" value="249.80445995620144" />
-      <entry key="H1" value="402.40189194690123" />
-      <entry key="H2" value="574.7663200726078" />
-      <entry key="H4" value="858.9691082327943" />
-      <entry key="D1" value="1666.2533134029245" />
-      <entry key="W1" value="1939.2290489401798" />
+      <entry key="MS100" value="8.360910657474594E-49" />
+      <entry key="MS500" value="8.198919935272837E-10" />
+      <entry key="S2" value="0.022674381807125055" />
+      <entry key="S5" value="0.759894046722876" />
+      <entry key="S10" value="2.5829584557905467" />
+      <entry key="S30" value="9.14943758587284" />
+      <entry key="S60" value="19.88688068473563" />
+      <entry key="M2" value="34.689232106699" />
+      <entry key="M5" value="51.866407731507685" />
+      <entry key="M10" value="60.1789258919736" />
+      <entry key="M15" value="63.41330813697655" />
+      <entry key="M30" value="67.84394970953164" />
+      <entry key="H1" value="92.75399472608733" />
+      <entry key="H2" value="210.57417367165718" />
+      <entry key="H4" value="496.71619836168395" />
+      <entry key="D1" value="1560.1186327786602" />
+      <entry key="W1" value="1988.3660906835905" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.1687258732499886E-99" />
-      <entry key="S2" value="1.999212490202655E-25" />
-      <entry key="S5" value="1.9215951183162016E-10" />
-      <entry key="S10" value="2.509604168418406E-5" />
-      <entry key="S30" value="0.08251657639084486" />
-      <entry key="S60" value="0.7850483028356717" />
-      <entry key="M2" value="3.552957469324449" />
-      <entry key="M5" value="14.089058928378584" />
-      <entry key="M10" value="29.72895644845122" />
-      <entry key="M15" value="42.6623433784929" />
-      <entry key="M30" value="69.88970905288201" />
-      <entry key="H1" value="97.80586085845202" />
-      <entry key="H2" value="131.3802333949691" />
-      <entry key="H4" value="195.10163055805296" />
-      <entry key="D1" value="386.7687219312931" />
-      <entry key="W1" value="452.50659714143023" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000010804023372" />
+      <entry key="S2" value="1.0327585520554041" />
+      <entry key="S5" value="1.3016613122809217" />
+      <entry key="S10" value="1.7264930953759907" />
+      <entry key="S30" value="2.6836462760766917" />
+      <entry key="S60" value="3.754002955951728" />
+      <entry key="M2" value="5.0924238985797485" />
+      <entry key="M5" value="6.546810997838847" />
+      <entry key="M10" value="7.212390739794678" />
+      <entry key="M15" value="7.460689243194366" />
+      <entry key="M30" value="7.954380012538059" />
+      <entry key="H1" value="13.49356547311505" />
+      <entry key="H2" value="39.46234240305432" />
+      <entry key="H4" value="103.5473016959677" />
+      <entry key="D1" value="351.39741321178707" />
+      <entry key="W1" value="452.88316360093705" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0012446881126164664" />
-      <entry key="MS500" value="0.2624291709057668" />
-      <entry key="S2" value="0.7157504978272918" />
-      <entry key="S5" value="0.8903788596935392" />
-      <entry key="S10" value="1.1183907230311605" />
-      <entry key="S30" value="2.4326951256098397" />
-      <entry key="S60" value="4.622036886872196" />
-      <entry key="M2" value="9.51062686631782" />
-      <entry key="M5" value="33.8220407019437" />
-      <entry key="M10" value="94.90707767361248" />
-      <entry key="M15" value="159.79578650561785" />
-      <entry key="M30" value="319.6048044997315" />
-      <entry key="H1" value="500.1438990947836" />
-      <entry key="H2" value="706.1033414553349" />
-      <entry key="H4" value="1054.0385927534883" />
-      <entry key="D1" value="2053.011303087722" />
-      <entry key="W1" value="2391.733846626683" />
+      <entry key="MS100" value="2.315892952718825E-6" />
+      <entry key="MS500" value="0.07463521761027761" />
+      <entry key="S2" value="0.5568101328598771" />
+      <entry key="S5" value="1.7259715945848488" />
+      <entry key="S10" value="4.038733273639117" />
+      <entry key="S30" value="11.63919541329627" />
+      <entry key="S60" value="23.458536766946462" />
+      <entry key="M2" value="39.62487257580367" />
+      <entry key="M5" value="58.31678207656688" />
+      <entry key="M10" value="67.33401235172289" />
+      <entry key="M15" value="70.83316613601849" />
+      <entry key="M30" value="75.77601177524026" />
+      <entry key="H1" value="106.23238587425266" />
+      <entry key="H2" value="250.02026052128977" />
+      <entry key="H4" value="600.2447728628645" />
+      <entry key="D1" value="1911.5060153499044" />
+      <entry key="W1" value="2441.247413333959" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -167,51 +170,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.C000. The Lab.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C001. Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0012. Buying Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0013. Discounted Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0014. The Prototype.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C008. The Four Sisters and the Duckbear.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C009. The Dominion of Kings.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C010. The Defense of Consolas.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C011. Repairing the Clocktower.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C015. The Prototype.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C016. The Magic Cannon.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C016. The Replicator of Ditto.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C017a. The Laws of Freach.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C017b. The Laws of Freach.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C018. Taking a Number.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C019. Countdown.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C020. Hunting the Manticore.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C021. Simulas Test.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C022. Simulas Soup.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C023. Vin Fletchers Arrows.executor&quot;: &quot;Run&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.C000. The Lab.executor": "Run",
+    ".NET Project.C001. Hello World.executor": "Run",
+    ".NET Project.C0012. Buying Inventory.executor": "Run",
+    ".NET Project.C0013. Discounted Inventory.executor": "Run",
+    ".NET Project.C0014. The Prototype.executor": "Run",
+    ".NET Project.C008. The Four Sisters and the Duckbear.executor": "Run",
+    ".NET Project.C009. The Dominion of Kings.executor": "Run",
+    ".NET Project.C010. The Defense of Consolas.executor": "Run",
+    ".NET Project.C011. Repairing the Clocktower.executor": "Run",
+    ".NET Project.C015. The Prototype.executor": "Run",
+    ".NET Project.C016. The Magic Cannon.executor": "Run",
+    ".NET Project.C016. The Replicator of Ditto.executor": "Run",
+    ".NET Project.C017a. The Laws of Freach.executor": "Run",
+    ".NET Project.C017b. The Laws of Freach.executor": "Run",
+    ".NET Project.C018. Taking a Number.executor": "Run",
+    ".NET Project.C019. Countdown.executor": "Run",
+    ".NET Project.C020. Hunting the Manticore.executor": "Run",
+    ".NET Project.C021. Simulas Test.executor": "Run",
+    ".NET Project.C022. Simulas Soup.executor": "Run",
+    ".NET Project.C023. Vin Fletchers Arrows.executor": "Run",
+    ".NET Project.C024. Vins Trouble.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.C023. Vin Fletchers Arrows">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.C024. Vins Trouble">
     <configuration name="C000. The Lab" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -758,6 +762,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="C024. Vins Trouble" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C024. Vins Trouble/C024. Vins Trouble.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Lanre\AppData\Roaming\Subversion</configuration>
@@ -806,7 +831,8 @@
     <MESSAGE value="Solve the Simulas Soup challenge" />
     <MESSAGE value="Start on the Vin Fletchers Arrows challenge" />
     <MESSAGE value="Update the Vin Fletchers Arrows challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update the Vin Fletchers Arrows challenge" />
+    <MESSAGE value="Solve the Vin Fletcher's Arrows challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve the Vin Fletcher's Arrows challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -50,22 +50,27 @@ Arrow arrow = new Arrow(arrowHead, arrowFletching, shaftLength);
 
 // Calculate the cost
 if (arrowHead != Arrowhead.Unknown && arrowFletching != ArrowFletching.Unknown)
-    Console.WriteLine($"The cost of that arrow is: {arrow.CalculateCost()}");
+    Console.WriteLine($"The cost of that arrow is: {arrow.GetCost()}");
 else
     Console.WriteLine("Stop wasting my time with weird requests. I do NOT make arrows with recycled dog fur!");
 
 
 class Arrow
 {
-    public Arrowhead Arrowhead;
-    public ArrowFletching Fletching;
-    public int ShaftLength;
+    private Arrowhead _arrowhead;
+    private ArrowFletching _fletching;
+    private int _shaftLength;
+
+    public Arrowhead GetArrowhead() => _arrowhead;
+    public ArrowFletching GetFletching() => _fletching;
+    public int GetShaftLength() => _shaftLength;
+    public Decimal GetCost() => CalculateCost();
     
     public Arrow(Arrowhead arrowhead, ArrowFletching fletching, int shaftLength)
     {
-        Arrowhead = arrowhead;
-        ShaftLength = shaftLength;
-        Fletching = fletching;
+        _arrowhead = arrowhead;
+        _shaftLength = shaftLength;
+        _fletching = fletching;
     }
     
     public decimal CalculateCost()
@@ -73,25 +78,25 @@ class Arrow
         decimal cost = 0;
 
         // Add the cost of the arrowhead
-        if (Arrowhead == Arrowhead.Steel)
+        if (_arrowhead == Arrowhead.Steel)
             cost += 10;
-        else if (Arrowhead == Arrowhead.Wood)
+        else if (_arrowhead == Arrowhead.Wood)
             cost += 3;
-        else if (Arrowhead == Arrowhead.Obsidian)
+        else if (_arrowhead == Arrowhead.Obsidian)
             cost += 5;
         else
             cost += 0;
         
         // Add the cost of the fletching
-        if (Fletching == ArrowFletching.Plastic)
+        if (_fletching == ArrowFletching.Plastic)
             cost += 10;
-        if (Fletching == ArrowFletching.TurkeyFeather)
+        if (_fletching == ArrowFletching.TurkeyFeather)
             cost += 5;
-        if (Fletching == ArrowFletching.GooseFeather)
+        if (_fletching == ArrowFletching.GooseFeather)
             cost += 3;
         
         // Add the cost of shaft by length
-        cost += ShaftLength * 0.05m;
+        cost += _shaftLength * 0.05m;
         
         return cost;
     }
