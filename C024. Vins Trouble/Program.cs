@@ -85,7 +85,7 @@ class Arrow
         else if (_arrowhead == Arrowhead.Obsidian)
             cost += 5;
         else
-            cost += 0;
+            cost += 0; 
         
         // Add the cost of the fletching
         if (_fletching == ArrowFletching.Plastic)
