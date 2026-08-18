@@ -22,7 +22,7 @@ switch (Convert.ToInt32(Console.ReadLine()))
 
 Console.WriteLine("Choose the shaft:\n1 - Plastic\n2 - Turkey Feathers\n3 - Goose Feathers");
 Console.Write("> ");
-switch (Convert.ToInt32(Console.ReadLine()))
+switch (Convert.ToInt32(Console.ReadLine())) 
 {
     case 1:
         arrowFletching = ArrowFletching.Plastic;
