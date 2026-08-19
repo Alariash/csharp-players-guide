@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C023. Vin Fletchers Arrows"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C024. Vins Trouble", "C024. Vins Trouble\C024. Vins Trouble.csproj", "{158BBD0D-398C-4FBE-B7EB-173207314AD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C025. The Properties of Arrows", "C025. The Properties of Arrows\C025. The Properties of Arrows.csproj", "{AB58ED09-F19F-43A8-BA8B-80D01787E631}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{158BBD0D-398C-4FBE-B7EB-173207314AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158BBD0D-398C-4FBE-B7EB-173207314AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158BBD0D-398C-4FBE-B7EB-173207314AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB58ED09-F19F-43A8-BA8B-80D01787E631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB58ED09-F19F-43A8-BA8B-80D01787E631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB58ED09-F19F-43A8-BA8B-80D01787E631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB58ED09-F19F-43A8-BA8B-80D01787E631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

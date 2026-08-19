@@ -39,7 +39,9 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="" />
+    <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,61 +102,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0361299381787519" />
-      <entry key="MS500" value="1.8196418392275069" />
-      <entry key="S2" value="4.212121900185915" />
-      <entry key="S5" value="6.299691624737152" />
-      <entry key="S10" value="7.470112296904287" />
-      <entry key="S30" value="9.678745561826286" />
-      <entry key="S60" value="15.076864175682147" />
-      <entry key="M2" value="28.345872512718294" />
-      <entry key="M5" value="52.29789881421385" />
-      <entry key="M10" value="66.9166439461388" />
-      <entry key="M15" value="73.03873349396818" />
-      <entry key="M30" value="80.81081562896553" />
-      <entry key="H1" value="107.01277701282027" />
-      <entry key="H2" value="224.5343667540001" />
-      <entry key="H4" value="510.16843133960725" />
-      <entry key="D1" value="1575.2691581977683" />
-      <entry key="W1" value="2005.0294260117337" />
+      <entry key="MS100" value="1.000000000027208" />
+      <entry key="MS500" value="1.0134109333528756" />
+      <entry key="S2" value="2.4514237471793496" />
+      <entry key="S5" value="6.003883046497087" />
+      <entry key="S10" value="8.954367113375351" />
+      <entry key="S30" value="13.083972260217925" />
+      <entry key="S60" value="18.908171559656914" />
+      <entry key="M2" value="32.319666854551016" />
+      <entry key="M5" value="56.56801499162794" />
+      <entry key="M10" value="71.4539385748164" />
+      <entry key="M15" value="77.70293526171655" />
+      <entry key="M30" value="85.62558129625197" />
+      <entry key="H1" value="111.89118217384355" />
+      <entry key="H2" value="229.4086629710926" />
+      <entry key="H4" value="515.0267033330202" />
+      <entry key="D1" value="1580.1965137028735" />
+      <entry key="W1" value="2010.016222339622" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.8994766847604176E-89" />
-      <entry key="S2" value="6.818002787454684E-23" />
-      <entry key="S5" value="1.747275336935008E-9" />
-      <entry key="S10" value="6.325524187803189E-5" />
-      <entry key="S30" value="0.0891324471688788" />
-      <entry key="S60" value="0.6841477285710091" />
-      <entry key="M2" value="2.1739631946604767" />
-      <entry key="M5" value="4.657585747561708" />
-      <entry key="M10" value="6.083377610117654" />
-      <entry key="M15" value="6.660231161891242" />
-      <entry key="M30" value="7.5155628516891335" />
-      <entry key="H1" value="13.116087602087319" />
-      <entry key="H2" value="38.906454378289276" />
-      <entry key="H4" value="102.81540326108885" />
-      <entry key="D1" value="350.98222784218075" />
-      <entry key="W1" value="452.806682939522" />
+      <entry key="MS500" value="6.677529216735772E-93" />
+      <entry key="S2" value="9.335823487100509E-24" />
+      <entry key="S5" value="7.887866102534529E-10" />
+      <entry key="S10" value="4.250065392269724E-5" />
+      <entry key="S30" value="0.07806724636191868" />
+      <entry key="S60" value="0.6402747933620055" />
+      <entry key="M2" value="2.1031025250085125" />
+      <entry key="M5" value="4.59625549596531" />
+      <entry key="M10" value="6.04319247284797" />
+      <entry key="M15" value="6.6308683253071505" />
+      <entry key="M30" value="7.498977691119921" />
+      <entry key="H1" value="13.101607478168125" />
+      <entry key="H2" value="38.884972139322834" />
+      <entry key="H4" value="102.78701452628276" />
+      <entry key="D1" value="350.96607415380606" />
+      <entry key="W1" value="452.80370572637156" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.008041342215116" />
-      <entry key="MS500" value="1.8107102918938147" />
-      <entry key="S2" value="4.207398592010146" />
-      <entry key="S5" value="6.296933634862577" />
-      <entry key="S10" value="7.46854123234477" />
-      <entry key="S30" value="9.760715725544872" />
-      <entry key="S60" value="15.727297788869079" />
-      <entry key="M2" value="30.452600612036743" />
-      <entry key="M5" value="56.886732457646225" />
-      <entry key="M10" value="72.95161073351561" />
-      <entry key="M15" value="79.66246186226996" />
-      <entry key="M30" value="88.3052649975787" />
-      <entry key="H1" value="120.11410126649737" />
-      <entry key="H2" value="263.4247877660019" />
-      <entry key="H4" value="612.965236366305" />
-      <entry key="D1" value="1926.2413666815373" />
-      <entry key="W1" value="2457.8342682302114" />
+      <entry key="MS100" value="0.9592641193498043" />
+      <entry key="MS500" value="1.0048897755841915" />
+      <entry key="S2" value="2.4417404949697037" />
+      <entry key="S5" value="5.993629129466299" />
+      <entry key="S10" value="8.947000220854553" />
+      <entry key="S30" value="13.153115453315598" />
+      <entry key="S60" value="19.515488977995936" />
+      <entry key="M2" value="34.357002271581955" />
+      <entry key="M5" value="61.09612913128134" />
+      <entry key="M10" value="77.44889186118402" />
+      <entry key="M15" value="84.29736276045422" />
+      <entry key="M30" value="93.10344251880186" />
+      <entry key="H1" value="124.97801778886922" />
+      <entry key="H2" value="268.27759818416894" />
+      <entry key="H4" value="617.7951185522169" />
+      <entry key="D1" value="1931.1525679245362" />
+      <entry key="W1" value="2462.818087209209" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -779,6 +781,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="C025. The Properties of Arrows" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/C025. The Properties of Arrows/C025. The Properties of Arrows.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Lanre\AppData\Roaming\Subversion</configuration>
@@ -829,7 +852,8 @@
     <MESSAGE value="Update the Vin Fletchers Arrows challenge" />
     <MESSAGE value="Solve the Vin Fletcher's Arrows challenge" />
     <MESSAGE value="Solve the Vins Trouble challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve the Vins Trouble challenge" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
