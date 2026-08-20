@@ -28,6 +28,7 @@
     <projectFile>C022. Simulas Soup/C022. Simulas Soup.csproj</projectFile>
     <projectFile>C023. Vin Fletchers Arrows/C023. Vin Fletchers Arrows.csproj</projectFile>
     <projectFile>C024. Vins Trouble/C024. Vins Trouble.csproj</projectFile>
+    <projectFile>C025. The Properties of Arrows/C025. The Properties of Arrows.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -94,6 +95,7 @@
     <setting file="file://$PROJECT_DIR$/C022. Simulas Soup/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C023. Vin Fletchers Arrows/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C024. Vins Trouble/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C025. The Properties of Arrows/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -102,61 +104,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000027208" />
-      <entry key="MS500" value="1.0134109333528756" />
-      <entry key="S2" value="2.4514237471793496" />
-      <entry key="S5" value="6.003883046497087" />
-      <entry key="S10" value="8.954367113375351" />
-      <entry key="S30" value="13.083972260217925" />
-      <entry key="S60" value="18.908171559656914" />
-      <entry key="M2" value="32.319666854551016" />
-      <entry key="M5" value="56.56801499162794" />
-      <entry key="M10" value="71.4539385748164" />
-      <entry key="M15" value="77.70293526171655" />
-      <entry key="M30" value="85.62558129625197" />
-      <entry key="H1" value="111.89118217384355" />
-      <entry key="H2" value="229.4086629710926" />
-      <entry key="H4" value="515.0267033330202" />
-      <entry key="D1" value="1580.1965137028735" />
-      <entry key="W1" value="2010.016222339622" />
+      <entry key="MS100" value="1.0480994920473106" />
+      <entry key="MS500" value="1.7934066134717865" />
+      <entry key="S2" value="4.373873559142616" />
+      <entry key="S5" value="8.802053604929949" />
+      <entry key="S10" value="13.637943792511264" />
+      <entry key="S30" value="20.917824980244383" />
+      <entry key="S60" value="27.738077853648296" />
+      <entry key="M2" value="41.59912733671643" />
+      <entry key="M5" value="66.42192231792899" />
+      <entry key="M10" value="81.7399411279796" />
+      <entry key="M15" value="88.1874347196141" />
+      <entry key="M30" value="96.34281813033111" />
+      <entry key="H1" value="122.70885180908779" />
+      <entry key="H2" value="240.22606293856492" />
+      <entry key="H4" value="525.8242936177719" />
+      <entry key="D1" value="1591.0937119039227" />
+      <entry key="W1" value="2020.9975547345557" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.677529216735772E-93" />
-      <entry key="S2" value="9.335823487100509E-24" />
-      <entry key="S5" value="7.887866102534529E-10" />
-      <entry key="S10" value="4.250065392269724E-5" />
-      <entry key="S30" value="0.07806724636191868" />
-      <entry key="S60" value="0.6402747933620055" />
-      <entry key="M2" value="2.1031025250085125" />
-      <entry key="M5" value="4.59625549596531" />
-      <entry key="M10" value="6.04319247284797" />
-      <entry key="M15" value="6.6308683253071505" />
-      <entry key="M30" value="7.498977691119921" />
-      <entry key="H1" value="13.101607478168125" />
-      <entry key="H2" value="38.884972139322834" />
-      <entry key="H4" value="102.78701452628276" />
-      <entry key="D1" value="350.96607415380606" />
-      <entry key="W1" value="452.80370572637156" />
+      <entry key="MS500" value="9.09425121966527E-98" />
+      <entry key="S2" value="5.671401835382165E-25" />
+      <entry key="S5" value="2.57261409532912E-10" />
+      <entry key="S10" value="2.4271866220232948E-5" />
+      <entry key="S30" value="0.06476962462486671" />
+      <entry key="S60" value="0.5832001999882734" />
+      <entry key="M2" value="2.007178861562826" />
+      <entry key="M5" value="4.5112242289415105" />
+      <entry key="M10" value="5.987031629120745" />
+      <entry key="M15" value="6.589722926325774" />
+      <entry key="M30" value="7.475675421305952" />
+      <entry key="H1" value="13.081235719254817" />
+      <entry key="H2" value="38.85472915385946" />
+      <entry key="H4" value="102.74703518876571" />
+      <entry key="D1" value="350.9433189031842" />
+      <entry key="W1" value="452.7995116099097" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592641193498043" />
-      <entry key="MS500" value="1.0048897755841915" />
-      <entry key="S2" value="2.4417404949697037" />
-      <entry key="S5" value="5.993629129466299" />
-      <entry key="S10" value="8.947000220854553" />
-      <entry key="S30" value="13.153115453315598" />
-      <entry key="S60" value="19.515488977995936" />
-      <entry key="M2" value="34.357002271581955" />
-      <entry key="M5" value="61.09612913128134" />
-      <entry key="M10" value="77.44889186118402" />
-      <entry key="M15" value="84.29736276045422" />
-      <entry key="M30" value="93.10344251880186" />
-      <entry key="H1" value="124.97801778886922" />
-      <entry key="H2" value="268.27759818416894" />
-      <entry key="H4" value="617.7951185522169" />
-      <entry key="D1" value="1931.1525679245362" />
-      <entry key="W1" value="2462.818087209209" />
+      <entry key="MS100" value="1.0130449818235525" />
+      <entry key="MS500" value="1.7825829174552397" />
+      <entry key="S2" value="4.365291413254146" />
+      <entry key="S5" value="8.791342247282143" />
+      <entry key="S10" value="13.628383056008262" />
+      <entry key="S30" value="20.972846643523493" />
+      <entry key="S60" value="28.290000528434287" />
+      <entry key="M2" value="43.54288685485245" />
+      <entry key="M5" value="70.86599936074293" />
+      <entry key="M10" value="87.67904767805766" />
+      <entry key="M15" value="94.74085326324808" />
+      <entry key="M30" value="103.79739775405585" />
+      <entry key="H1" value="135.77531613388226" />
+      <entry key="H2" value="279.0647563821191" />
+      <entry key="H4" value="628.5527311035862" />
+      <entry key="D1" value="1942.0270105860268" />
+      <entry key="W1" value="2473.795225370643" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -213,7 +215,7 @@
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.C024. Vins Trouble">
+  <component name="RunManager" selected=".NET Project.C025. The Properties of Arrows">
     <configuration name="C000. The Lab" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -853,7 +855,8 @@
     <MESSAGE value="Solve the Vin Fletcher's Arrows challenge" />
     <MESSAGE value="Solve the Vins Trouble challenge" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Start on the Properties of Arrows challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start on the Properties of Arrows challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

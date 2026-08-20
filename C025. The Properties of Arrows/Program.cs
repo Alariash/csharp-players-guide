@@ -57,13 +57,10 @@ else
 
 class Arrow
 {
-    private Arrowhead _arrowhead;
-    private ArrowFletching _fletching;
-    private int _shaftLength;
+    public Arrowhead _arrowhead { get; }
+    public ArrowFletching _fletching { get; }
+    public int _shaftLength { get; }
 
-    public Arrowhead GetArrowhead() => _arrowhead;
-    public ArrowFletching GetFletching() => _fletching;
-    public int GetShaftLength() => _shaftLength;
     public Decimal GetCost() => CalculateCost();
     
     public Arrow(Arrowhead arrowhead, ArrowFletching fletching, int shaftLength)
