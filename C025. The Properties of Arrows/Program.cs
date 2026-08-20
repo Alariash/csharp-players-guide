@@ -57,17 +57,17 @@ else
 
 class Arrow
 {
-    public Arrowhead _arrowhead { get; }
-    public ArrowFletching _fletching { get; }
-    public int _shaftLength { get; }
+    private Arrowhead Arrowhead { get; }
+    private ArrowFletching Fletching { get; }
+    private int ShaftLength { get; }
 
     public Decimal GetCost() => CalculateCost();
     
     public Arrow(Arrowhead arrowhead, ArrowFletching fletching, int shaftLength)
     {
-        _arrowhead = arrowhead;
-        _shaftLength = shaftLength;
-        _fletching = fletching;
+        Arrowhead = arrowhead;
+        ShaftLength = shaftLength;
+        Fletching = fletching;
     }
     
     public decimal CalculateCost()
@@ -75,25 +75,25 @@ class Arrow
         decimal cost = 0;
 
         // Add the cost of the arrowhead
-        if (_arrowhead == Arrowhead.Steel)
+        if (Arrowhead == Arrowhead.Steel)
             cost += 10;
-        else if (_arrowhead == Arrowhead.Wood)
+        else if (Arrowhead == Arrowhead.Wood)
             cost += 3;
-        else if (_arrowhead == Arrowhead.Obsidian)
+        else if (Arrowhead == Arrowhead.Obsidian)
             cost += 5;
         else
             cost += 0; 
         
         // Add the cost of the fletching
-        if (_fletching == ArrowFletching.Plastic)
+        if (Fletching == ArrowFletching.Plastic)
             cost += 10;
-        if (_fletching == ArrowFletching.TurkeyFeather)
+        if (Fletching == ArrowFletching.TurkeyFeather)
             cost += 5;
-        if (_fletching == ArrowFletching.GooseFeather)
+        if (Fletching == ArrowFletching.GooseFeather)
             cost += 3;
         
         // Add the cost of shaft by length
-        cost += _shaftLength * 0.05m;
+        cost += ShaftLength * 0.05m;
         
         return cost;
     }

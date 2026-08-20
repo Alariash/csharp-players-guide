@@ -42,6 +42,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57fc2661-d857-4148-8511-5aa1842af17d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp Players Guide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C025. The Properties of Arrows/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/C025. The Properties of Arrows/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,61 +105,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0480994920473106" />
-      <entry key="MS500" value="1.7934066134717865" />
-      <entry key="S2" value="4.373873559142616" />
-      <entry key="S5" value="8.802053604929949" />
-      <entry key="S10" value="13.637943792511264" />
-      <entry key="S30" value="20.917824980244383" />
-      <entry key="S60" value="27.738077853648296" />
-      <entry key="M2" value="41.59912733671643" />
-      <entry key="M5" value="66.42192231792899" />
-      <entry key="M10" value="81.7399411279796" />
-      <entry key="M15" value="88.1874347196141" />
-      <entry key="M30" value="96.34281813033111" />
-      <entry key="H1" value="122.70885180908779" />
-      <entry key="H2" value="240.22606293856492" />
-      <entry key="H4" value="525.8242936177719" />
-      <entry key="D1" value="1591.0937119039227" />
-      <entry key="W1" value="2020.9975547345557" />
+      <entry key="MS100" value="1.0000000000024676" />
+      <entry key="MS500" value="1.00478009696163" />
+      <entry key="S2" value="1.324384181775415" />
+      <entry key="S5" value="2.3660727409367737" />
+      <entry key="S10" value="4.565430095585199" />
+      <entry key="S30" value="9.194975248709847" />
+      <entry key="S60" value="11.322000871589832" />
+      <entry key="M2" value="13.674110180698253" />
+      <entry key="M5" value="28.758850438266638" />
+      <entry key="M10" value="54.86985238306675" />
+      <entry key="M15" value="71.7182336828375" />
+      <entry key="M30" value="96.52906760989711" />
+      <entry key="H1" value="131.80768343125624" />
+      <entry key="H2" value="249.75746216937492" />
+      <entry key="H4" value="533.7881540031441" />
+      <entry key="D1" value="1608.4707128067269" />
+      <entry key="W1" value="2046.249218979856" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="9.09425121966527E-98" />
-      <entry key="S2" value="5.671401835382165E-25" />
-      <entry key="S5" value="2.57261409532912E-10" />
-      <entry key="S10" value="2.4271866220232948E-5" />
-      <entry key="S30" value="0.06476962462486671" />
-      <entry key="S60" value="0.5832001999882734" />
-      <entry key="M2" value="2.007178861562826" />
-      <entry key="M5" value="4.5112242289415105" />
-      <entry key="M10" value="5.987031629120745" />
-      <entry key="M15" value="6.589722926325774" />
-      <entry key="M30" value="7.475675421305952" />
-      <entry key="H1" value="13.081235719254817" />
-      <entry key="H2" value="38.85472915385946" />
-      <entry key="H4" value="102.74703518876571" />
-      <entry key="D1" value="350.9433189031842" />
-      <entry key="W1" value="452.7995116099097" />
+      <entry key="MS100" value="4.468941886443916E-140" />
+      <entry key="MS500" value="1.349090056859061E-28" />
+      <entry key="S2" value="1.0777306531201979E-7" />
+      <entry key="S5" value="0.0016330673429343038" />
+      <entry key="S10" value="0.040411227931532887" />
+      <entry key="S30" value="0.3431634095491609" />
+      <entry key="S60" value="0.5867099446511921" />
+      <entry key="M2" value="0.8405069938390861" />
+      <entry key="M5" value="2.2709543999916213" />
+      <entry key="M10" value="4.776947839996232" />
+      <entry key="M15" value="6.391091442768554" />
+      <entry key="M30" value="8.858970489869494" />
+      <entry key="H1" value="14.925209874468253" />
+      <entry key="H2" value="39.93960654546926" />
+      <entry key="H4" value="102.99353249153788" />
+      <entry key="D1" value="352.8165638690807" />
+      <entry key="W1" value="456.4072237286345" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0130449818235525" />
-      <entry key="MS500" value="1.7825829174552397" />
-      <entry key="S2" value="4.365291413254146" />
-      <entry key="S5" value="8.791342247282143" />
-      <entry key="S10" value="13.628383056008262" />
-      <entry key="S30" value="20.972846643523493" />
-      <entry key="S60" value="28.290000528434287" />
-      <entry key="M2" value="43.54288685485245" />
-      <entry key="M5" value="70.86599936074293" />
-      <entry key="M10" value="87.67904767805766" />
-      <entry key="M15" value="94.74085326324808" />
-      <entry key="M30" value="103.79739775405585" />
-      <entry key="H1" value="135.77531613388226" />
-      <entry key="H2" value="279.0647563821191" />
-      <entry key="H4" value="628.5527311035862" />
-      <entry key="D1" value="1942.0270105860268" />
-      <entry key="W1" value="2473.795225370643" />
+      <entry key="MS100" value="8.337648051489534E-5" />
+      <entry key="MS500" value="0.15346311425410866" />
+      <entry key="S2" value="0.8209089824595746" />
+      <entry key="S5" value="2.0157389453102024" />
+      <entry key="S10" value="4.339164237747417" />
+      <entry key="S30" value="9.371309417476299" />
+      <entry key="S60" value="11.801776460952144" />
+      <entry key="M2" value="14.451545882180891" />
+      <entry key="M5" value="30.98771849377415" />
+      <entry key="M10" value="59.60900989564251" />
+      <entry key="M15" value="78.07629569981736" />
+      <entry key="M30" value="105.36533025413195" />
+      <entry key="H1" value="146.71648196093216" />
+      <entry key="H2" value="289.68028951105197" />
+      <entry key="H4" value="636.7628056545392" />
+      <entry key="D1" value="1961.2771575870208" />
+      <entry key="W1" value="2502.65458054746" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -170,51 +171,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.C000. The Lab.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C001. Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0012. Buying Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0013. Discounted Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C0014. The Prototype.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C008. The Four Sisters and the Duckbear.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C009. The Dominion of Kings.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C010. The Defense of Consolas.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C011. Repairing the Clocktower.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C015. The Prototype.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C016. The Magic Cannon.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C016. The Replicator of Ditto.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C017a. The Laws of Freach.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C017b. The Laws of Freach.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C018. Taking a Number.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C019. Countdown.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C020. Hunting the Manticore.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C021. Simulas Test.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C022. Simulas Soup.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C023. Vin Fletchers Arrows.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.C024. Vins Trouble.executor&quot;: &quot;Run&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.C000. The Lab.executor": "Run",
+    ".NET Project.C001. Hello World.executor": "Run",
+    ".NET Project.C0012. Buying Inventory.executor": "Run",
+    ".NET Project.C0013. Discounted Inventory.executor": "Run",
+    ".NET Project.C0014. The Prototype.executor": "Run",
+    ".NET Project.C008. The Four Sisters and the Duckbear.executor": "Run",
+    ".NET Project.C009. The Dominion of Kings.executor": "Run",
+    ".NET Project.C010. The Defense of Consolas.executor": "Run",
+    ".NET Project.C011. Repairing the Clocktower.executor": "Run",
+    ".NET Project.C015. The Prototype.executor": "Run",
+    ".NET Project.C016. The Magic Cannon.executor": "Run",
+    ".NET Project.C016. The Replicator of Ditto.executor": "Run",
+    ".NET Project.C017a. The Laws of Freach.executor": "Run",
+    ".NET Project.C017b. The Laws of Freach.executor": "Run",
+    ".NET Project.C018. Taking a Number.executor": "Run",
+    ".NET Project.C019. Countdown.executor": "Run",
+    ".NET Project.C020. Hunting the Manticore.executor": "Run",
+    ".NET Project.C021. Simulas Test.executor": "Run",
+    ".NET Project.C022. Simulas Soup.executor": "Run",
+    ".NET Project.C023. Vin Fletchers Arrows.executor": "Run",
+    ".NET Project.C024. Vins Trouble.executor": "Run",
+    ".NET Project.C025. The Properties of Arrows.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.C025. The Properties of Arrows">
     <configuration name="C000. The Lab" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -856,7 +858,8 @@
     <MESSAGE value="Solve the Vins Trouble challenge" />
     <MESSAGE value="Test" />
     <MESSAGE value="Start on the Properties of Arrows challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start on the Properties of Arrows challenge" />
+    <MESSAGE value="Solve the Properties of Arrows challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve the Properties of Arrows challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
